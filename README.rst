@@ -1,14 +1,18 @@
-# DiPolMol-Py
+DiPolMol-Py
+===========
 A Python package to calculate the rotational and hyperfine structure of doublet-Sigma molecules (e.g., CaF, BaF, SrF) in the presence of external fields.
 
 If you use our work for academic purposes you can cite us using:
 
 B. Humphreys _et al._ DiPolMol-Py: A Python package for calculations for $^{2}{\Sigma}$ ground-state molecules. Add ArXiv link.
 
-# Installation
+Installation
+----------
 Raw files available on github repository. Further installation options tbc.
 
-# Example
+Example
+-------
+.. code-block:: python
 
 	import numpy as np
 	import hamiltonian as hamiltonian
@@ -29,8 +33,8 @@ Raw files available on github repository. Further installation options tbc.
 	energies, states, label_list = 
        calc.solve(H, Nmax, SrF,label=True, B)
 
-.. image:: static/Zeeman_SrF_plot.pdf
-  :width: 800
+.. image:: Images/zeeman_SrF_plot.pdf
+  :width: 400
   :alt: Resulting plot of above example
 
-For more examples of usage, see the ``./examples`` folder.
+For more examples of usage, see the ``./Examples`` folder.
