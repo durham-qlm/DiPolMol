@@ -4,7 +4,7 @@ A Python package to calculate the rotational and hyperfine structure of doublet-
 
 If you use our work for academic purposes you can cite us using:
 
-B. Humphreys _et al._ DiPolMol-Py: A Python package for calculations for $^{2}{\Sigma}$ ground-state molecules. Add ArXiv link.
+ B.Humphreys *et al.* DiPolMol-Py: A Python package for calculations for $^{2}{\Sigma}$ ground-state molecules. Add ArXiv link.
 
 Installation
 ----------
@@ -33,7 +33,9 @@ Example
 	energies, states, label_list = 
        calc.solve(H, Nmax, SrF,label=True, B)
 
-.. image:: Images/zeeman_SrF_plot.pdf
+Resulting plot of above code
+
+.. image:: Images/zeeman_SrF_plot.png
   :width: 400
   :alt: Resulting plot of above example
 
