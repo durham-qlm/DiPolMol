@@ -1,4 +1,4 @@
-# DiPolMol
+# DiPolMol-Py
 A Python package to calculate the rotational and hyperfine structure of doublet-Sigma molecules (e.g., CaF, BaF, SrF) in the presence of external fields.
 
 If you use our work for academic purposes you can cite us using:
