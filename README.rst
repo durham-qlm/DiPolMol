@@ -2,13 +2,15 @@ DiPolMol-Py
 ===========
 A Python package to calculate the rotational and hyperfine structure of doublet-Sigma molecules (e.g., CaF, BaF, SrF) in the presence of external fields.
 
+DiPolMol-Py is licensed under a BSD 3 clause license, a copy can be found `here <LICENSE>`_.
+
 If you use our work for academic purposes you can cite us using:
 
  B.Humphreys *et al.* DiPolMol-Py: A Python package for calculations for $^{2}{\Sigma}$ ground-state molecules. Add ArXiv link.
 
 Installation
 ----------
-Raw files available on github repository. Further installation options tbc.
+Programme files available in /Raw Code. Further installation options tbc.
 
 Example
 -------
