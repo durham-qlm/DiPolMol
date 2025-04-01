@@ -10,7 +10,7 @@ If you use our work for academic purposes you can cite us using:
 
 Installation
 ----------
-Programme files available in /Raw Code. Further installation options tbc.
+Programme files available in /Programme Files. Further installation options tbc.
 
 Example
 -------
